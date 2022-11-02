@@ -22,8 +22,7 @@
 ### Dionaea Honeypot Deployment (Required)
 
 **Summary:** Briefly in your own words, what does dionaea do?
-
-<img src="dionaea-honeypot.gif">
+- Dionnaea attracts attackers by creating and monitoring vulnerabilities that nmap or another port scanner might pick up. MHN is the open source framework, and dinaea is the specific "fake server" that is publicly available. MHN helps admin view attacks, manage snort/sniffing rules, deploy scripts, connect, register, send intrusion logs. Dionaea is a specific and mangeable instance of one of these servers. A sysadmin, security researcher, network engineer (or codepath student) could set up MHN and dionaea to attract attackers and see vulnerabilities in action. Dionaea is the honeypot, and the vulonerabilties are the "honey" to attackers. 
 
 
 
