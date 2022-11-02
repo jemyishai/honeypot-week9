@@ -30,9 +30,9 @@
 
 **Summary:** What is the RDBMS that MHN-Admin uses? What information does the exported JSON file record?
 
-*Be sure to upload session.json directly to this GitHub repo/branch in order to get full credit.*
+- It looks like MHN uses mongo to store session information
 
 
 ## Notes
-
-I had already used up my free credits on google cloud for another project, so I was constantly checking the dashboard to make sure I didn't run up too many costs. I could have created another email, but I was concerned that may create other complications. This is also a bit of hectic time in the semester, so I'm going to come back to this material in the future. 
+- This command would not work for me ```mongoexport --db mnemosyne --collection session > session.json```
+- I had already used up my free credits on google cloud for another project, so I was constantly checking the dashboard to make sure I didn't run up too many costs. I could have created another email, but I was concerned that may create other complications. This is also a bit of hectic time in the semester, so I'm going to come back to this material in the future. 
