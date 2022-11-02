@@ -8,8 +8,10 @@
 
 **Summary:** How did you deploy it? Did you use GCP, AWS, Azure, Vagrant, VirtualBox, etc.?
 
-- I used GCP as described in the instructions:
+- I used GCP exactly as described in the instructions:
 - Set up GCP and deployed the MHN to it
+- Deploy anoter cloud to run dionnaea, and use the MHN admin dash to monitor it
+
 - Here is a gif of the Google cloud dash:
 
 ![gcp](https://user-images.githubusercontent.com/12431338/199579171-59e31819-8aed-481f-89f5-2936f0c1f5b6.gif)
