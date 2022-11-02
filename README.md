@@ -32,7 +32,8 @@
 
 **Summary:** What is the RDBMS that MHN-Admin uses? What information does the exported JSON file record?
 
-- It looks like MHN uses mongo to store session information
+- It looks like MHN uses mongo to store a json file of ips, ports, as in the following:
+- {"$date":"2022-11-02T18:38:40.197Z"},"source_ip":"98.7.39.44","source_port":63063,"destination_port":4443,"identifier":"5e4f6fc0-5add-11ed-aaf7-42010a800002","honeypot":"dionaea"}
 - The json file is in this repo
 
 
