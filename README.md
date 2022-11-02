@@ -34,11 +34,12 @@
 
 - It looks like MHN uses mongo to store a json file of ips, ports, as in the following:
 - {"$date":"2022-11-02T18:38:40.197Z"},"source_ip":"98.7.39.44","source_port":63063,"destination_port":4443,"identifier":"5e4f6fc0-5add-11ed-aaf7-42010a800002","honeypot":"dionaea"}
-- The json file is in this repo
+- The json file is in this repo at https://github.com/jemyishai/honeypot-week9/blob/main/session.json
 
 
 
 
 ## Notes
-- This command needs to be run in the home directory, and I spent a lot fo time trying to run it at this location: /opt/mnemosyne/persistance  ```mongoexport --db mnemosyne --collection session > session.json```
+- This command needs to be run in the home directory, and I spent a lot fo time trying to run it at this location: /opt/mnemosyne/persistance which did not work
+```mongoexport --db mnemosyne --collection session > session.json```
 - I had already used up my free credits on google cloud for another project, so I was constantly checking the dashboard to make sure I didn't run up too many costs. I could have created another email, but I was concerned that may create other complications. This is also a bit of hectic time in the semester, so I'm going to come back to this material in the future. 
