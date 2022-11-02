@@ -33,6 +33,9 @@
 **Summary:** What is the RDBMS that MHN-Admin uses? What information does the exported JSON file record?
 
 - It looks like MHN uses mongo to store session information
+- The json file is in this repo
+
+
 
 
 ## Notes
