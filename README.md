@@ -7,8 +7,16 @@
 ### MHN-Admin Deployment (Required)
 
 **Summary:** How did you deploy it? Did you use GCP, AWS, Azure, Vagrant, VirtualBox, etc.?
-I used GCP as described in the instructions
 
+- I used GCP as described in the instructions:
+- Set up GCP and deployed the MHN to it
+- Here is a gif of the Google cloud dash:
+
+![gcp](https://user-images.githubusercontent.com/12431338/199579171-59e31819-8aed-481f-89f5-2936f0c1f5b6.gif)
+
+
+- Here is a gif of the Honeypot dash:
+![attacks](https://user-images.githubusercontent.com/12431338/199578179-4e04cb71-6e99-4963-9c48-eab629de4cd9.gif)
 <img src="mhn-admin.gif">
 
 ### Dionaea Honeypot Deployment (Required)
@@ -17,7 +25,7 @@ I used GCP as described in the instructions
 
 <img src="dionaea-honeypot.gif">
 
-![attacks](https://user-images.githubusercontent.com/12431338/199578179-4e04cb71-6e99-4963-9c48-eab629de4cd9.gif)
+
 
 ### Database Backup (Required) 
 
