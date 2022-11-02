@@ -33,26 +33,7 @@
 
 *Be sure to upload session.json directly to this GitHub repo/branch in order to get full credit.*
 
-### Deploying Additional Honeypot(s) (Optional)
-
-#### X Honeypot
-
-**Summary:** What does this honeypot simulate and do for a security researcher?
-
-<img src="x-honeypot.gif">
-
-### Malware Capture and Identification (Optional)
-
-#### X Malware
-
-**Summary:** How did you find it? Which honeypot captured it? What does each malware do?
-
-MD5 Hash: *Run `md5sum` on the file and record the hash here.*
-
-SHA1 Hash: *Run `sha1sum` on the file and record the hash here.*
-
-<img src="x-malware.gif">
 
 ## Notes
 
-Describe any challenges encountered while doing the assignment.
+I had already used up my free credits on google cloud for another project, so I was constantly checking the dashboard to make sure I didn't run up too many costs. I could have created another email, but I was concerned that may create other complications. This is also a bit of hectic time in the semester, so I'm going to come back to this material in the future. 
