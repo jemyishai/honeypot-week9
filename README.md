@@ -36,5 +36,5 @@
 
 
 ## Notes
-- This command would not work for me ```mongoexport --db mnemosyne --collection session > session.json```
+- This command needs to be run in the home directory, and I spent a lot fo time trying to run it at this location: /opt/mnemosyne/persistance  ```mongoexport --db mnemosyne --collection session > session.json```
 - I had already used up my free credits on google cloud for another project, so I was constantly checking the dashboard to make sure I didn't run up too many costs. I could have created another email, but I was concerned that may create other complications. This is also a bit of hectic time in the semester, so I'm going to come back to this material in the future. 
